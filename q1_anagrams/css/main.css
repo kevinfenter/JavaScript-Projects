@@ -1,0 +1,9 @@
+#findButton {
+    background-color: #008CBA;
+    font-size: 18px;
+}
+
+#findButton:hover {
+    background-color: #00FF00; 
+    color: white;
+  }
